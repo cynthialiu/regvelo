@@ -254,7 +254,7 @@ dependencies:
   - libsystemd0=256.7
   - libthrift=0.21.0
   - libtiff=4.7.0
-  - libtorch=2.5.1
+  - lib=2.5.1
   - libudev1=256.7
   - libutf8proc=2.9.0
   - libuuid=2.38.1
@@ -331,9 +331,9 @@ dependencies:
   - python-tzdata=2024.2
   - python-utils=3.9.0
   - python_abi=3.10
-  - pytorch-cuda=12.4
-  - pytorch-lightning=2.4.0
-  - pytorch-mutex=1.0
+  - py-cuda=12.4
+  - py-lightning=2.4.0
+  - py-mutex=1.0
   - pyyaml=6.0.2
   - qhull=2020.2
   - rav1e=0.6.6
@@ -627,8 +627,8 @@ dependencies:
     - texttable==1.7.0
     - tf-keras==2.18.0
     - tomli==2.0.2
-    - torch==2.5.1
-    - torchaudio==2.5.1
+    - torch==2.7.1
+    - torchaudio==2.7.1
     - torchmetrics==1.4.3
     - torchode==1.0.0
     - torchtyping==0.1.5
